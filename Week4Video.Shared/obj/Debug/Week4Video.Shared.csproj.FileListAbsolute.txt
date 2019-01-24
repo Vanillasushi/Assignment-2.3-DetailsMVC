@@ -1,0 +1,5 @@
+C:\Users\Henry\source\Week4Video.Shared\bin\Debug\Week4Video.Shared.dll
+C:\Users\Henry\source\Week4Video.Shared\bin\Debug\Week4Video.Shared.pdb
+C:\Users\Henry\source\Week4Video.Shared\obj\Debug\Week4Video.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\Week4Video.Shared\obj\Debug\Week4Video.Shared.dll
+C:\Users\Henry\source\Week4Video.Shared\obj\Debug\Week4Video.Shared.pdb

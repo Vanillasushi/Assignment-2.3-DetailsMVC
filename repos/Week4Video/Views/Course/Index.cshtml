@@ -1,0 +1,33 @@
+﻿@model Week4Video.Models.DetailsModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <p><div>
+            @Html.LabelFor(m => m.FirstName)
+            @Html.DisplayFor(m => m.FirstName)
+        </div></p>
+        <p><div>
+            @Html.LabelFor(m => m.LastName)
+            @Html.DisplayFor(m => m.LastName)
+        </div></p>
+        <p><div>
+            @Html.LabelFor(m => m.Gender)
+            @Html.DisplayFor(m => m.Gender)
+        </div></p>
+        <p><div>
+            @Html.LabelFor(m => m.Age)
+            @Html.DisplayFor(m => m.Age)
+        </div></p>
+        <p><div>
+            @Html.LabelFor(m => m.Major)
+            @Html.DisplayFor(m => m.Major)
+        </div></p>
+    </div>
+</body>
+</html>
